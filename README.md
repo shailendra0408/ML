@@ -2,7 +2,7 @@
 The idea is to start with the basic of ML and eventually move torwards computer Vision, video analytics and forecasting. 
 
 1. Regression  
-2. Liniear Regression 
+2. Liniear Regression , Multiple Regression, Polynomial Regression 
 3. Online Learing 
     a. LMS Mode - Least Mean Square Model 
 4. Logistic Regression 
