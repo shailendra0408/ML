@@ -1,0 +1,13 @@
+Regression searches for relationship among varibles. 
+
+Regression - Scikit link - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+1. Simple Linear Regression - Single Indipendent variable ( Training pairs or regressors) 
+and single response 
+    𝑓(𝑥) = 𝑏₀ + 𝑏₁𝑥
+    𝑏₀ = interept
+    𝑏₁ = slope 
+
+2. Multiple Regression - Two or More indipendent variables and single response.
+3. Polynomial Regression 
+4. Underfitting ( Low r^2 ) and Overfitting ( High R^2 with known data but low R^2 with new data)
