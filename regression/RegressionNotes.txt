@@ -7,7 +7,13 @@ and single response
     𝑓(𝑥) = 𝑏₀ + 𝑏₁𝑥
     𝑏₀ = interept
     𝑏₁ = slope 
+Tried 2 examples 
+    a. With 10 sample data
+    b. With  around 4000 data points of T, RH. 
 
 2. Multiple Regression - Two or More indipendent variables and single response.
+    a. Use ddifferent Sources - Here is one interesting - https://medium.com/swlh/multi-linear-regression-using-python-44bd0d10082d
+    b. Another one - didn't tried it - https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python
+    
 3. Polynomial Regression 
 4. Underfitting ( Low r^2 ) and Overfitting ( High R^2 with known data but low R^2 with new data)
