@@ -9,6 +9,21 @@ The idea is to start with the basic of ML and eventually move torwards computer 
 5. Perceptron Learning Algorithm
 6. SVM - Support Vector machine 
 
+Research resources - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+
+# For Image Processing 
+
+1. Classification
+2. Object detection
+3. Segmentation
+
+Important Sources
+1. https://paperswithcode.com/task/semantic-segmentation
+2. https://paperswithcode.com/datasets?q=Kaggle%20Skin%20Lesion%20Segmentation
+3. https://neptune.ai/blog/image-segmentation
+4. https://www.youtube.com/@sentdex
+
+
 Will add more with time. 
 
 # Sample code with open source data and then with @Yuktix WS data. 
