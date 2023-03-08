@@ -8,6 +8,9 @@ The idea is to start with the basic of ML and eventually move torwards computer 
 4. Logistic Regression 
 5. Perceptron Learning Algorithm
 6. SVM - Support Vector machine 
+    a. Soft Classifier 
+    b. Hard Classifier 
+    c. Naive Based 
 
 Research resources - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
@@ -22,6 +25,8 @@ Important Sources
 2. https://paperswithcode.com/datasets?q=Kaggle%20Skin%20Lesion%20Segmentation
 3. https://neptune.ai/blog/image-segmentation
 4. https://www.youtube.com/@sentdex
+5. https://www.tensorflow.org/datasets/catalog/mnist
+6. https://www.kaggle.com/competitions/digit-recognizer/data
 
 
 Will add more with time. 
