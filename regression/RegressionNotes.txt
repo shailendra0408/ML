@@ -10,6 +10,9 @@ and single response
 Tried 2 examples 
     a. With 10 sample data
     b. With  around 4000 data points of T, RH. 
+    Temperature is not something that varried linearly, so a linear regression model 
+    will not give you good forecast, but a polynomial regression might. 
+
 
     Now the Maths behind this is from the lecture 1 of the Advance ML course. 
     The regression coefficient can be find by using 
@@ -20,4 +23,9 @@ Tried 2 examples
     b. Another one - didn't tried it - https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python
 
 3. Polynomial Regression 
+    a. Interesting read - https://towardsdatascience.com/machine-learning-polynomial-regression-with-python-5328e4e8a386
+    b. https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/
+    c. Multivariate Polynomial regression model - https://data36.com/polynomial-regression-python-scikit-learn/
+        
+
 4. Underfitting ( Low r^2 ) and Overfitting ( High R^2 with known data but low R^2 with new data)
