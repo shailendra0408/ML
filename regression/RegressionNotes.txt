@@ -26,6 +26,13 @@ Tried 2 examples
     a. Interesting read - https://towardsdatascience.com/machine-learning-polynomial-regression-with-python-5328e4e8a386
     b. https://www.geeksforgeeks.org/python-implementation-of-polynomial-regression/
     c. Multivariate Polynomial regression model - https://data36.com/polynomial-regression-python-scikit-learn/
+
+4. Logistic Regression 
+    a. Interesting read - https://realpython.com/logistic-regression-python/
+    b. Another one - https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+    c. Smote ( Synthetic Minority Oversampling Technique )  - Its a usefull tool that is used when there is a un-balenced data. 
+    More here https://towardsdatascience.com/smote-fdce2f605729#:~:text=SMOTE%20is%20a%20machine%20learning,with%20this%20type%20of%20data.
+    
         
 
 4. Underfitting ( Low r^2 ) and Overfitting ( High R^2 with known data but low R^2 with new data)
