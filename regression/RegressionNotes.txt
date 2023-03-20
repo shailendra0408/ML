@@ -32,6 +32,7 @@ Tried 2 examples
     b. Another one - https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
     c. Smote ( Synthetic Minority Oversampling Technique )  - Its a usefull tool that is used when there is a un-balenced data. 
     More here https://towardsdatascience.com/smote-fdce2f605729#:~:text=SMOTE%20is%20a%20machine%20learning,with%20this%20type%20of%20data.
+    d. Recursive Feature elimination - a feature of logistic regression 
     
         
 
