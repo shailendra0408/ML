@@ -1,0 +1,11 @@
+Image Segmentation 
+1. Object Detection 
+2. Link we can follow - There are lot of tutorials avaialble in Youtube. The point is 
+where to start from. For example, you can start from a sample problem - and then do 
+a kind of reverse search on how that can be solved, or otherwise, you will go in black 
+hole with the kind of knowledge which you cannot digest. 
+3. Problems i am interested in 
+    a. count the number of fruits in the on-going video
+    b. Find the growth of the plant as per day - how it should have been ideally and 
+    how it is right now.
+    c. Can we use satellite data to provide production related information?
