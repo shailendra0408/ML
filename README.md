@@ -11,6 +11,8 @@ The idea is to start with the basic of ML and eventually move torwards computer 
     a. Soft Classifier 
     b. Hard Classifier 
     c. Naive Based 
+7. Decision trees
+8. Random forest 
 
 Research resources - https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
@@ -29,7 +31,13 @@ Important Sources
 6. https://www.kaggle.com/competitions/digit-recognizer/data
 
 
+More information inside Image segmentation 
+
 Will add more with time. 
+
+# time series forecasting using ML - one of the important applications 
+
+https://www.advancinganalytics.co.uk/blog/2021/06/22/10-incredibly-useful-time-series-forecasting-algorithms
 
 # Sample code with open source data and then with @Yuktix WS data. 
 
