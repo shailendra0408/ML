@@ -1,11 +1,37 @@
 Image Segmentation 
 1. Object Detection 
+    Algorithms for image Segmentation
+    a. Supervised 
+    b. Unsupervised 
+    c. CNN ( convutional neural network )
+    d. ANN ( Artificial neural network )
+    e. SVM ( Support vector machine )
+    f. K-nearest neighbour 
+    g. Naive Based 
+    h. Random forest algorithm 
+    i. Mask R-CNN
+    j. YoloR 
+    h. YOLOv7 / v8. 
+    i. Teralytics 
+
+Try to use some sample of these algorithms 
+
+Data for training - anotated one 
+    a. ImageNet 
+    b. LabelMe
+    c. Google OID
+    d. MS COCO
+
 2. Link we can follow - There are lot of tutorials avaialble in Youtube. The point is 
 where to start from. For example, you can start from a sample problem - and then do 
 a kind of reverse search on how that can be solved, or otherwise, you will go in black 
 hole with the kind of knowledge which you cannot digest. 
-3. Problems i am interested in 
+3. Deep learning algorithms - make notes using this 
+https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-algorithm
+4. Problems i am interested in 
     a. count the number of fruits in the on-going video
     b. Find the growth of the plant as per day - how it should have been ideally and 
     how it is right now.
     c. Can we use satellite data to provide production related information?
+Here is link that talks about the implementation in Agriculture 
+    -> https://viso.ai/applications/computer-vision-in-agriculture/
