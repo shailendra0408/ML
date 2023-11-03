@@ -26,12 +26,17 @@ Data for training - anotated one
 where to start from. For example, you can start from a sample problem - and then do 
 a kind of reverse search on how that can be solved, or otherwise, you will go in black 
 hole with the kind of knowledge which you cannot digest. 
+
 3. Deep learning algorithms - make notes using this 
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-algorithm
+
 4. Problems i am interested in 
     a. count the number of fruits in the on-going video
     b. Find the growth of the plant as per day - how it should have been ideally and 
     how it is right now.
     c. Can we use satellite data to provide production related information?
+    d. Capture Video, take photos out of it, process it and find out if that specific is a splant or not and if that plant is health or impacted by disease. Run this on a RPI. 
+    e. A simple analysis of plant leaf - biotic or abiotic stress. 
+
 Here is link that talks about the implementation in Agriculture 
     -> https://viso.ai/applications/computer-vision-in-agriculture/
